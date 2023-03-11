@@ -1,0 +1,16 @@
+$ease: .5s all ease;
+
+$tablet: 1024px;
+$mobile: 572px;
+
+@mixin inputElement {
+    width: 100%;
+    padding: .7rem;
+    border: 1px solid #999;
+    border-radius: 10px;
+    margin: .5rem 0;
+    word-spacing: .3rem;
+    &::placeholder {
+        font-size: medium;
+    }
+}

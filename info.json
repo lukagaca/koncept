@@ -1,0 +1,19 @@
+{
+    "persons":
+    [{
+        "quote": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia enim accusamus rem, sint inventore quasi!",
+        "portrait": "images/portrait-square-03.jpg",
+        "name": "Marko Markovic",
+        "profession": "Lorem ipsum dolor sit amet"
+    },{
+        "quote": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur quibusdam magni reiciendis.",
+        "portrait": "images/portrait-square-10.jpg",
+        "name": "Jovana Jovanovic",
+        "profession": "consectetur adipisicing elit"
+    },{
+        "quote": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil ipsum autem cupiditate, asperiores magni ut.",
+        "portrait": "images/portrait-square-11.jpg",
+        "name": "Mirko Mirkovic",
+        "profession": "Nihil ipsum autem cupiditate"
+    }]
+}
